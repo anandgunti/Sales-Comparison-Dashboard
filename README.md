@@ -10,12 +10,19 @@
 
 **Sales Trends (2014 Q1 – 2017 Q4):**
 **Primary Region (Central)**: Notable upward trends in Furniture and Office Supplies, with Technology catching up post-2017 Q3 dip.
+
 **Secondary Region (South)**: All categories rebounded quickly in early 2017 Q4 post-2017 Q3 slowdown.
+
 **Profit Ratio:**
+
 Secondary Region’s profit ratio is 1.5 times higher than the Primary Region.
+
 Despite a higher customer base, the Primary Region's average sales per order is lower.
-Profits by Subcategory:
+
+**Profits by Subcategory:**
+
 Primary Region: 40% of subcategories are financially underperforming.
+
 Secondary Region: Only two categories are underperforming, with significant losses in the Tables category.
 
 **Actionable Recommendations:**
