@@ -21,4 +21,5 @@ Secondary Region: Only two categories are underperforming, with significant loss
 **Actionable Recommendations:**
 
 Cap discounts in the Tables category to 25% to mitigate losses.
+
 Conduct a micro-analysis of cities within each region to identify and address underperforming products, focusing on optimizing product mix and sales strategies.
