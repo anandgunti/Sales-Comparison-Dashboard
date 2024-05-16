@@ -1,3 +1,4 @@
+
 # Sales Comparison Dashboard: A Comprehensive Analysis of Two Regions
 
 **Objective**: Developed a visually intuitive dashboard using the Sample Superstore dataset to compare sales performance between two regions, aiding upper management in data-driven decision-making.
@@ -5,7 +6,7 @@
 **Dataset Preparation:** Utilized the 'Group by' function to organize data by Category, Product Name, and Subcategory. Created a hierarchical structure for Location variables (Country, Region, State, City, Postal Code) to enable focused regional analysis.
 
 **Parameterization**: Introduced 'Primary Region' and 'Secondary Region' parameters for flexible regional selection, enhancing user interactivity.
-
+![Screenshot (123)](https://github.com/anandgunti/Sales-Comparison-Dashboard/assets/25959661/3e58a034-1ccc-498f-adaa-3c8083b4a959)
 **Key Insights:**
 
 **Sales Trends (2014 Q1 – 2017 Q4):**
